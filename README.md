@@ -3,7 +3,6 @@
 ##  Final Project for CS GY 6513 Big Data 
 ### New York University - Tandon School of Engineering
 
-[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://travis-ci.org/joemccann/dillinger)
 
 NYC 311 is a service provided by the city of New York that allows residents to report non-emergency issues and request city services. The service was launched in 2003 as a way to improve communication between the city and its residents, and to provide a single point of contact for non-emergency issues.
 The objective of analyzing NYC 311 service requests was to to gain insights into the needs and concerns of New York City residents, and to help the city improve its services.
